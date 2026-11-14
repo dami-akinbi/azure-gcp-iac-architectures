@@ -28,7 +28,7 @@ resource "google_compute_network" "spoke_app_vpc" {
 resource "google_compute_subnetwork" "spoke_app_subnet" {
     name = "snet-spoke-app-${var.environment}"
     ip_cidr_range = "10.1.1.0/24"
-    region = "us-central"
+    region = "us-central1"
     network = google_compute_network.spoke_app_vpc.id
 }
 

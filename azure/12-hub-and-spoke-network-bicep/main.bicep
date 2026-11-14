@@ -44,7 +44,7 @@ resource spokeDataVnet 'Microsoft.Network/virtualNetworks@2023-09-01' = {
   name: 'vnet-spoke-data-${environment}'
   location: location
   properties: {
-    addressSpace: { addressPrefixes: ['10.2.0.0./16'] }
+    addressSpace: { addressPrefixes: ['10.2.0.0/16'] }
     subnets: [
       {
         name: 'snet-database'

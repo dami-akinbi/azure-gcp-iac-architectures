@@ -50,7 +50,7 @@ Push to main (azure/** or gcp/**)
 ### Repository Structure
 
 ```text
-cloud-portfolio/
+azure-gcp-iac-architectures/
 ├── .github/
 │   └── workflows/
 │       ├── azure-deploy.yml        # Automated Bicep deployment pipeline

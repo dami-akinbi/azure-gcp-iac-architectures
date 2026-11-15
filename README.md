@@ -1,7 +1,7 @@
 # Multi-Cloud Infrastructure-as-Code Portfolio (Azure & GCP)
 
-[![Microsoft Certified: Azure Administrator Associate](https://img.shields.io/badge/Azure-AZ--104%20Certified-0078D4?style=flat-square&logo=microsoftazure)](https://learn.microsoft.com/en-us/credentials/)
-[![Google Cloud Certified: Associate Cloud Engineer](https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=flat-square&logo=googlecloud)](https://cloud.google.com/certification)
+[![Microsoft Certified: Azure Administrator Associate](https://img.shields.io/badge/Azure-AZ--104%20Certified-0078D4?style=flat-square&logo=microsoftazure)](https://learn.microsoft.com/en-us/users/damilolaakinbi/credentials/9fc53585f52d0f1e)
+[![Google Cloud Certified: Associate Cloud Engineer](https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=flat-square&logo=googlecloud)](https://www.credly.com/badges/ffd1b052-0e25-47ac-ac8b-eb8ba8b1b6a2)
 [![CI/CD: GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![IaC: Bicep & Terraform](https://img.shields.io/badge/IaC-Bicep%20%7C%20Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
@@ -80,5 +80,4 @@ cloud-portfolio/
 
 ## Author
 
-**Damilola Akinbi** — Cloud, DevOps & FinOps Engineer  
-* **Certifications:** Microsoft Certified: Azure Administrator Associate (AZ-104) | Google Cloud Certified: Associate Cloud Engineer (ACE)
+**Damilola Akinbi** — Cloud, DevOps & FinOps Engineer
